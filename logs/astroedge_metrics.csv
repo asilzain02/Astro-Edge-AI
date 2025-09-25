@@ -1,0 +1,157 @@
+query,answer,inference_time_sec,cpu_usage_percent,ram_usage_mb,tokens_generated,temperature_used,response_confidence
+How do I repair an oxygen leak?,"There are several steps you can take to repair an oxygen leak in an aircraft engine:
+
+1. Check the Oxygen Sensor: The oxygen sensor is located on the engine's intake manifold and measures the amount of oxygen in the air. If the sensor is malfunctioning or damaged, it may not be able to detect the oxidizer (oxygen) properly. Check the sensor for any signs of damage, such as corrosion or a faulty connection.
+
+2. Repair the Oxygen Sensor: If the sensor is still functioning, you may need to replace it. The sensor is usually located on the engine's intake manifold. Remove the manifold and inspect the sensor for any damage or debris. If you need to replace the sensor, you can either replace it with a new one or use a replacement kit.
+
+3. Inspect the Oxygen Tank: The oxygen tank is located under the engine's cowling and is responsible for storing the oxidizer. Check the tank for any signs of damage, such as corrosion or leaks. If you need to replace the tank, you can either replace it with a new one or use a replacement kit.
+
+4. Check the Oxygen Control Valve: The oxygen control valve is located on the engine's intake manifold and controls the amount of oxygen that enters the engine. If the valve is malfunctioning or damaged, it may not be able to control the amount of oxygen properly. Check the valve for any signs of damage, such as corrosion or a faulty connection.",8.6,34.5,1212.82,249,0.4,0.96
+Give me a checklist for spacecraft re-entry.,"1. Preparation:
+    a. Prepare the spacecraft for re-entry by conducting a thorough checklist of all systems and components.
+    b. Conduct a thorough inspection of the spacecraft's systems and components, including the engines, propulsion system, and landing gear.
+
+2. Re-entry procedure:
+    a. Activate the spacecraft's emergency systems, including the emergency parachute system and the escape system.
+    b. Determine the appropriate parachute deployment altitude based on the spacecraft's speed, altitude, and landing site.
+    c. Deploy the parachute system to slow the spacecraft down and reduce its velocity before re-entering the atmosphere.
+    d. Determine the appropriate landing site based on the spacecraft's speed, altitude, and landing site.
+    e. Use the spacecraft's landing gear to slow the spacecraft down and reduce its velocity before landing.
+    f. Determine the appropriate landing site based on the spacecraft's speed, altitude, and landing site.
+    g. Perform a post-landing check to ensure that the spacecraft is safe and functioning properly.
+
+3. Post-landing maintenance:
+    a. Conduct a thorough inspection of the spacecraft's systems and components to identify any damage or malfunctions.
+    b. Perform any necessary repairs or replacements to ensure the spacecraft's safety and performance.
+    c. Monitor the spacecraft's systems and components to ensure they are functioning properly.",8.56,32.1,1213.23,198,0.4,0.97
+How to stabilize rotation in zero gravity?,"To stabilize rotation in zero gravity, astronauts use various methods. Here are some ways to stabilize rotation:
+
+1. Use a counterbalancing system: A counterbalancing system is a device that balances the weight of the astronaut's body against the weight of the surrounding environment. This system allows the astronaut to maintain a stable and predictable rotation.
+
+2. Use a spinning wheel: A spinning wheel is a device that spins at high speed, creating a counterbalancing effect. The astronaut can sit on a spinning wheel and use their body weight to counterbalance their own weight.
+
+3. Use a weighted vest: A weighted vest is a vest that is attached to the astronaut's back. The vest weighs more than the astronaut's body, which creates a counterbalancing effect.
+
+4. Use a weighted belt: A weighted belt is a belt that is attached to the astronaut's waist. The belt weighs more than the astronaut's body, which creates a counterbalancing effect.
+
+5. Use a balancing wheel: A balancing wheel is a device that spins at a high speed. The astronaut can sit on the balancing wheel and use their body weight to counterbalance their own weight.
+
+6. Use a counterbalancing device: A counterbalancing device is a device that is designed to balance the astronaut's body against the environment. These devices can be used to stabilize rotation in zero gravity.
+
+Remember, the amount of counterbalancing needed will depend on the specific gravity",8.51,32.0,1213.54,235,0.4,0.9
+What is the emergency protocol for fire onboard?,"The emergency protocol for fire onboard a spacecraft is as follows:
+
+1. Immediate evacuation of the crew and passengers.
+2. Activation of fire suppression systems, such as water jets, foam, and dry chemicals.
+3. Preparation of emergency equipment, such as fire extinguishers, fire blankets, and smoke detectors.
+4. Establishment of a safe and secure location for the crew and passengers.
+5. Communication with emergency services, such as the EVA team or rescue team.
+6. Continuous monitoring of the fire situation and evacuation procedures.
+7. Contingency planning for the safe return to Earth.
+
+The crew and passengers should evacuate the spacecraft as soon as possible, and the fire suppression systems should be activated to contain the fire. The emergency equipment should be prepared and ready to use in case of a fire emergency. Communication with emergency services should be established, and the crew and passengers should be informed of the emergency situation. Contingency planning should be in place to ensure a safe return to Earth in the event of a fire emergency.",6.07,31.9,1213.88,171,0.4,0.88
+Explain how to realign the satellite dish.,"To realign the satellite dish, the following steps should be taken:
+
+1. Identify the satellite dish: The satellite dish refers to the area where the satellite is located. The dish is typically shaped like a circle, and it is usually located in the upper atmosphere.
+
+2. Determine the cause of the dish: The cause of the dish may vary depending on the satellite's orbit. For example, a satellite may experience atmospheric drag, which causes the satellite to lose speed and begin to drift away from the Earth's surface.
+
+3. Check the satellite's orientation: The satellite's orientation is important for realigning the dish. The orientation refers to the satellite's position and speed relative to the Earth's surface.
+
+4. Determine the satellite's orientation: The satellite's orientation can be determined by using GPS or other satellite tracking methods. The satellite's orientation should be determined as close to the real-time as possible.
+
+5. Calculate the satellite's position: The satellite's position can be calculated using GPS or other satellite tracking methods. The satellite's position should be determined as close to the real-time as possible.
+
+6. Determine the satellite's velocity: The satellite's velocity is the change in velocity over time. The velocity can be calculated using GPS or other satellite tracking methods.
+
+7. Calculate the satellite's speed: The satellite's speed is the change in velocity over time. The speed can be calculated using GPS or other satellite tracking methods.
+
+8. Calculate the",8.29,31.9,1214.13,236,0.4,0.93
+How do I manage fuel efficiency in orbit?,"To manage fuel efficiency in orbit, you need to follow a few key measures:
+
+1. Reduce unnecessary movement: Whenever possible, avoid unnecessary movement in orbit. This means avoiding sudden jumps or sudden changes in direction, which can waste fuel.
+
+2. Use fuel-efficient propulsion systems: Use propulsion systems that are designed to use as little fuel as possible. For example, a rocket engine that uses solid propellant and a reusable launch vehicle that uses a single-stage-to-orbit configuration can both be fuel-efficient.
+
+3. Adjust altitude: If you need to adjust your orbit, adjust it to the minimum altitude possible. This will reduce the amount of fuel you need to burn to reach your desired altitude.
+
+4. Monitor fuel usage: Monitor your fuel usage closely. If you notice that your fuel usage is increasing, you may need to adjust your orbit to reduce your fuel usage.
+
+5. Use orbiting refueling stations: If you need to refuel in orbit, consider using orbiting refueling stations. These stations can refuel your spacecraft with fuel from the ground, reducing your fuel usage.
+
+6. Use reusable components: If you can, use reusable components in your spacecraft. This will reduce your fuel usage by eliminating the need to manufacture and dispose of new components.
+
+By following these measures, you can optimize your fuel usage and reduce your overall fuel costs for your space mission.",7.63,31.6,1214.79,225,0.4,0.86
+Provide step-by-step instructions for EVA suit check.,"EVA Suit Check:
+
+1. Wearing the EVA suit:
+    - Ensure the suit is properly fitted and secured around your waist.
+    - Check the suit's seals and zippers for any signs of wear or damage.
+    - Inspect the suit's internal components, such as the harness and latches.
+    - Double-check the suit's safety features, such as the emergency escape hatch and the ventilation system.
+
+2. Checking the suit's components:
+    - Check the suit's safety features, such as the emergency escape hatch and the ventilation system.
+    - Inspect the suit's internal components, such as the harness and latches.
+    - Double-check the suit's seals and zippers for any signs of wear or damage.
+
+3. Checking the suit's seals:
+    - Check the suit's seals, such as the helmet seal, the suit seal, and the harness seal.
+    - Ensure that the seals are securely attached to the suit and that there are no signs of damage or wear.
+
+4. Checking the suit's latches:
+    - Check the suit's latches, such as the suit latch, the harness latch, and the helmet latch.
+    - Ensure that the latches are securely attached to the suit and that there are no signs of damage or wear.
+
+5. Checking the suit's harness:
+    -",8.36,31.9,1214.91,201,0.4,0.82
+What to do if the navigation system fails?,"If the navigation system fails during a space mission, the astronauts will need to take immediate action to ensure their safety. Here are some steps to follow:
+
+1. Identify the navigation system failure: The first step is to identify the navigation system failure. This can be done by checking the status of the navigation systems, such as the GPS, inertial measurement units (IMUs), and other sensors.
+
+2. Check the communication system: If the navigation system is not working, the astronauts will need to check the communication system. This can be done by checking the status of the communication system, such as the radio, satellite phone, and other communication devices.
+
+3. Reach out for help: If the navigation system is not working, the astronauts will need to reach out for help. They can do this by calling down to the ground control center, which will send a rescue team to the spacecraft.
+
+4. Establish a safe landing site: If the navigation system is not working, the astronauts will need to establish a safe landing site. This can be done by finding a suitable landing site that is not too far from the spacecraft and has good weather conditions.
+
+5. Develop a contingency plan: The astronauts will need to develop a contingency plan for the navigation system failure. This plan should include steps to restore the navigation system, such as using backup navigation systems or repairing the damaged system.
+
+6. Communicate with the ground control center: The astronauts will need to communicate with the ground control center to provide updates on their situation. This can be done by using the communication system",8.51,31.8,1215.06,270,0.4,0.96
+How to run diagnostics on a solar panel array?,"To run diagnostiics on a solar panel array, you need to follow these steps:
+
+1. Connect the diagnostiics module to the solar panel array using a cable.
+
+2. Connect the diagnostiics module to the host computer using a USB cable.
+
+3. Install the diagnostiics software on the host computer.
+
+4. Connect the diagnostiics module to the host computer using a USB cable.
+
+5. Open the diagnostiics software on the host computer.
+
+6. Select the solar panel array from the list of devices.
+
+7. Connect the diagnostiics module to the solar panel array.
+
+8. Follow the on-screen instructions to run the diagnostiics scan.
+
+9. Once the scan is complete, the diagnostiics software will generate a report on the health of the solar panel array.
+
+10. Review the report and take any necessary actions.
+
+Note: The diagnostiics software is designed to work with specific solar panel arrays and may not work with all arrays. It's best to consult with a qualified solar panel expert for assistance in diagnosing your solar panel array.",5.9,32.3,1215.26,170,0.4,0.88
+What are the communication protocols during blackout?,"During a blackout, communication between the spacecraft and the ground station is severely restricted. The communication protocols during blackout are designed to minimize the risk of communication failure, ensuring that critical information is transmitted and received as quickly as possible.
+
+1. Spacecraft-Ground Communication Protocols:
+
+a. Data Link Communication Protocol (DLCP): This protocol is used to transmit data such as telemetry, control commands, and imagery. The data is transmitted using a high-speed data link, which is capable of transmitting data at speeds of up to 100 Mbps.
+
+b. Command and Control (C2) Communication Protocol (CCP): This protocol is used to transmit commands and control commands to the spacecraft. The C2 protocol is designed for high-speed data transmission and is capable of transmitting data at speeds of up to 50 Mbps.
+
+2. Ground Station-Spacecraft Communication Protocols:
+
+a. Data Link Communication Protocol (DLCP): This protocol is used to transmit data such as telemetry, control commands, and imagery. The data is transmitted using a high-speed data link, which is capable of transmitting data at speeds of up to 100 Mbps.
+
+b. Command and Control (C2) Communication Protocol (CCP): This protocol is used to transmit commands and control commands to the spacecraft. The C2 protocol is designed for high-speed data transmission and is capable of transmitting data at speeds of up to 50 Mb",8.31,31.8,1215.5,219,0.4,0.87

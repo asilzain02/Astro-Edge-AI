@@ -1,0 +1,17 @@
+[
+    {
+        "time": "2025-07-27T00:31:41.562627",
+        "object": "oxygen valve",
+        "confidence": 0.92
+    },
+    {
+        "time": "2025-07-27T11:28:14.734053",
+        "object": "loose wire",
+        "confidence": 0.85
+    },
+    {
+        "time": "2025-07-27T11:31:15.808213",
+        "object": "control panel",
+        "confidence": 0.92
+    }
+]
