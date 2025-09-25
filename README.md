@@ -86,6 +86,7 @@ astroedge_extras.StressRelief
 hotword_listener.HotwordListener
 
 📂 Project Structure
+
 <img width="838" height="334" alt="image" src="https://github.com/user-attachments/assets/6e05f807-fde9-4575-8237-344f6deb94a7" />
 
 
