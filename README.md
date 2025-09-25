@@ -86,20 +86,13 @@ astroedge_extras.StressRelief
 hotword_listener.HotwordListener
 
 📂 Project Structure
-astro_edge_ai/
-│── astroedge_main.py         # Main console (this script)
-│── astroedge_extras.py       # SystemHealth, MissionReport, StressRelief
-│── hotword_listener.py       # Hotword detection class
-│── models/
-│   └── vosk-model-small-en-us-0.15/   # Vosk hotword model
-│   └── tinyllama-1.1b-chat-v1.0.Q4_K_M.gguf   # LLM model
-│── logs/                     # AI metrics & reports
-│── README.md                 # Project documentation
+<img width="838" height="334" alt="image" src="https://github.com/user-attachments/assets/6e05f807-fde9-4575-8237-344f6deb94a7" />
+
 
 ⚡ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/astroedge-nextgen.git
-cd astroedge-nextgen
+<img width="822" height="107" alt="image" src="https://github.com/user-attachments/assets/c631ade1-ad52-4d48-91ed-80947385b9b7" />
+
 
 2️⃣ Install Dependencies
 pip install -r requirements.txt
