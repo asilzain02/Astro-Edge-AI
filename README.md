@@ -91,9 +91,9 @@ hotword_listener.HotwordListener
 
 ⚡ Installation
 1️⃣ Clone Repository
-git clone https://github.com/your-username/astroedge-nextgen.git
+git clone https://github.com/asilzain02/Astro-Edge-AI.git
 
-cd astroedge-nextgen
+cd Astro-Edge-AI
 
 
 2️⃣ Install Dependencies
